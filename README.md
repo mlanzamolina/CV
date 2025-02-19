@@ -1,0 +1,1 @@
+import json https://resume.anarr.dev/en

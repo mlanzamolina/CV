@@ -1,0 +1,196 @@
+{
+    "general": {
+      "name": "Marco",
+      "surname": "Lanza",
+      "email": "mlanzamolina@gmail.com",
+      "phone": "+50489548429",
+      "jobTitle": "Senior Full Stack Software Developer",
+      "country": "Honduras",
+      "city": "San Pedro Sula",
+      "driving": "Yes"
+    },
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/marco-lanza-793a5813a/",
+      "github": "https://github.com/mlanzamolina",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/marco.lanzamolina/",
+      "instagram": "https://www.instagram.com/mlanzamolina/",
+      "website": "",
+      "xing": "",
+      "medium": "",
+      "figma": "",
+      "dribbble": ""
+    },
+    "image": "data:image/jpeg;base64,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",
+    "summary": "<p>I am a passionate full-stack developer with 4+ years of experience creating and maintaining high-quality web applications. I have strong expertise in modern frameworks (Angular, React, Vue) and languages (JavaScript, TypeScript, C#, PHP). I also have hands-on experience developing RESTful APIs and implementing microservices architectures. Having worked in Agile/Scrum environments, I thrive in collaborative teams and am committed to continuous learning to stay at the forefront of technology.</p>",
+    "certificates": [],
+    "experience": [
+      {
+        "company": "Probit",
+        "jobTitle": "Full Stack Junior Developer",
+        "city": "San Pedro Sula",
+        "startDate": "2022-01",
+        "endDate": "2023-01",
+        "description": "<p>Managed both front-end and back-end systems. Deployed mobile apps to multiple platforms (iOS, Android, Huawei).</p>"
+      },
+      {
+        "company": "San Pedro Sula Municipality",
+        "jobTitle": "Full stack developer",
+        "city": "San Pedro Sula",
+        "startDate": "2022-01",
+        "endDate": "2024-01",
+        "description": "<p>Program Analyst (2 year) Managed database integration and API development.  Enhanced municipal systems for better user experience.</p>"
+      },
+      {
+        "company": "Honduras National Civil Registry(RNP)",
+        "jobTitle": "Senior full stack developer",
+        "city": "San Pedro Sula",
+        "startDate": "2024-02",
+        "endDate": "",
+        "description": "<p>Developed interoperable systems to facilitate seamless integration with public and private institutions.</p>"
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "level": "native"
+      },
+      {
+        "language": "Spanish",
+        "level": "native"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Unitec",
+        "city": "San Pedro Sula",
+        "degree": "Computer Systems engineering",
+        "fieldOfStudy": "Computer Science",
+        "startDate": "2018-01",
+        "endDate": "2023-01",
+        "description": "<p><br></p>"
+      },
+      {
+        "institution": "Unitec",
+        "city": "San Pedro Sula",
+        "degree": "Masters in Project Management",
+        "fieldOfStudy": "Business and Management",
+        "startDate": "2024-06",
+        "endDate": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      "Interoperability Systems Development",
+      "System Integration",
+      "Software Development",
+      "Data Management & Analysis",
+      "Cybersecurity & Compliance",
+      "Technology Implementation",
+      "Process Optimization",
+      "Risk Assessment & Mitigation",
+      "Technical Documentation",
+      "Cross-functional Team Collaboration",
+      "Problem-solving & Critical Thinking"
+    ],
+    "projects": [
+      {
+        "title": "Soy SPS+ App",
+        "description": "<p>Developed a highly interactive app for San Pedro Sula, Honduras using React Native Expo.</p>",
+        "technologies": [
+          "React Native",
+          "Expo"
+        ],
+        "githubLink": "private repo",
+        "liveLink": "Soy sps+ play store and app store"
+      },
+      {
+        "title": "Ackleaners Control Software",
+        "description": "<p> Business management platform developed with React and Firebase.</p>",
+        "technologies": [
+          "React",
+          "Firebase"
+        ],
+        "githubLink": "",
+        "liveLink": ""
+      },
+      {
+        "title": "Coffee Bonus App",
+        "description": "<p>Developed a React Native app with Expo to validate beneficiary identities using base64 images from the national registry. The system also supports assigning the bonus to a third party. <span class=\"ql-cursor\">﻿</span></p>",
+        "technologies": [
+          "C#",
+          "IIS",
+          "abp.io",
+          "react native",
+          "expo"
+        ],
+        "githubLink": "",
+        "liveLink": ""
+      },
+      {
+        "title": "Maintenance of sanpedrosula.hn",
+        "description": "<p>Ongoing maintenance using NestJS for APIs and JavaScript for clients. </p>",
+        "technologies": [],
+        "githubLink": "",
+        "liveLink": "https://sanpedrosula.hn/"
+      },
+      {
+        "title": "Immobilizer map",
+        "description": "<p>A web page that receives data of the location of all the immobilizers that are active and paid off around the city</p>",
+        "technologies": [
+          "react"
+        ],
+        "githubLink": "",
+        "liveLink": ""
+      },
+      {
+        "title": "TeleHuertos",
+        "description": "<p>A webpage that displays a schedule and allows users to create video conference rooms for educational sessions on home food cultivation.</p>",
+        "technologies": [
+          "React",
+          "NestJS"
+        ],
+        "githubLink": "",
+        "liveLink": "https://sanpedrosula.hn/telehuertos/"
+      },
+      {
+        "title": "SIN RNP",
+        "description": "<p>The <strong>SIN RNP</strong> (National Registry Identification System) is a centralized platform for managing identity records and civil registration. I developed its second version, enhancing security, scalability, and performance.</p>",
+        "technologies": [
+          "React native",
+          "expo",
+          "Laravel"
+        ],
+        "githubLink": "private",
+        "liveLink": "SIN RNP playstore and app store"
+      }
+    ],
+    "interests": [
+      "Baseball",
+      "Videogames",
+      "Movies & Series",
+      "Music",
+      "Cars",
+      "Computer Hardware"
+    ],
+    "references": [
+      {
+        "name": "Ing. Elvin Meza",
+        "company": "Number 8",
+        "phone": "+504 9975-8687",
+        "email": ""
+      },
+      {
+        "name": "Ing. Roberto Brid",
+        "company": "RNP",
+        "phone": "+504 8785-4144",
+        "email": ""
+      },
+      {
+        "name": "Ing. Juan Carlos Muñoz ",
+        "company": "Municipality SPS",
+        "phone": "+504 8810-7186",
+        "email": ""
+      }
+    ]
+  }
