@@ -1,0 +1,189 @@
+{
+  "general": {
+    "name": "Marco",
+    "surname": "Lanza",
+    "email": "mlanzamolina@gmail.com",
+    "phone": "+50489548429",
+    "jobTitle": "Desarrollador Full Stack Senior",
+    "country": "Honduras",
+    "city": "San Pedro Sula",
+    "driving": "Sí"
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/in/marco-lanza-793a5813a/",
+    "github": "https://github.com/mlanzamolina",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/marco.lanzamolina/",
+    "instagram": "https://www.instagram.com/mlanzamolina/",
+    "website": "",
+    "xing": "",
+    "medium": "",
+    "figma": "",
+    "dribbble": ""
+  },
+  "image": "",
+  "summary": "<p>Soy un desarrollador full-stack apasionado con más de 4 años de experiencia creando y manteniendo aplicaciones web de alta calidad. Tengo amplia experiencia en frameworks modernos (Angular, React, Vue) y lenguajes (JavaScript, TypeScript, C#, PHP). También cuento con experiencia práctica en el desarrollo de APIs RESTful y la implementación de arquitecturas de microservicios. Habiendo trabajado en entornos Agile/Scrum, me desenvuelvo bien en equipos colaborativos y estoy comprometido con el aprendizaje continuo para mantenerme a la vanguardia de la tecnología.</p>",
+  "certificates": [],
+  "experience": [
+    {
+      "company": "Probit",
+      "jobTitle": "Desarrollador Full Stack Junior",
+      "city": "San Pedro Sula",
+      "startDate": "2022-01",
+      "endDate": "2023-01",
+      "description": "<p>Gestioné sistemas tanto de front-end como de back-end. Implementé aplicaciones móviles en múltiples plataformas (iOS, Android, Huawei).</p>"
+    },
+    {
+      "company": "San Pedro Sula Municipality",
+      "jobTitle": "Desarrollador Full Stack",
+      "city": "San Pedro Sula",
+      "startDate": "2022-01",
+      "endDate": "2024-01",
+      "description": "<p>Analista de Programación (2 años). Gestioné la integración de bases de datos y el desarrollo de APIs. Mejoré los sistemas municipales para brindar una mejor experiencia de usuario.</p>"
+    },
+    {
+      "company": "Honduras National Civil Registry(RNP)",
+      "jobTitle": "Desarrollador Full Stack Senior",
+      "city": "San Pedro Sula",
+      "startDate": "2024-02",
+      "endDate": "",
+      "description": "<p>Desarrollé sistemas interoperables para facilitar la integración fluida con instituciones públicas y privadas.</p>"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "level": "nativo"
+    },
+    {
+      "language": "Español",
+      "level": "nativo"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Unitec",
+      "city": "San Pedro Sula",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "fieldOfStudy": "Ciencias de la Computación",
+      "startDate": "2018-01",
+      "endDate": "2023-01",
+      "description": "<p><br></p>"
+    },
+    {
+      "institution": "Unitec",
+      "city": "San Pedro Sula",
+      "degree": "Maestría en Gestión de Proyectos",
+      "fieldOfStudy": "Negocios y Administración",
+      "startDate": "2024-06",
+      "endDate": "",
+      "description": ""
+    }
+  ],
+  "skills": [
+    "Desarrollo de Sistemas de Interoperabilidad",
+    "Integración de Sistemas",
+    "Desarrollo de Software",
+    "Gestión y Análisis de Datos",
+    "Ciberseguridad y Cumplimiento",
+    "Implementación de Tecnología",
+    "Optimización de Procesos",
+    "Documentación Técnica",
+    "Colaboración entre Equipos Multifuncionales",
+    "Resolución de Problemas y Pensamiento Crítico"
+  ],
+  "projects": [
+    {
+      "title": "Soy SPS+ App",
+      "description": "<p>Desarrollé una aplicación altamente interactiva para San Pedro Sula, Honduras utilizando React Native Expo.</p>",
+      "technologies": [
+        "React Native",
+        "Expo"
+      ],
+      "githubLink": "repositorio privado",
+      "liveLink": "Soy sps+ Play Store y App Store"
+    },
+    {
+      "title": "Ackleaners Control Software",
+      "description": "<p>Plataforma de gestión empresarial desarrollada con React y Firebase.</p>",
+      "technologies": [
+        "React",
+        "Firebase"
+      ],
+      "githubLink": "",
+      "liveLink": ""
+    },
+    {
+      "title": "Coffee Bonus App",
+      "description": "<p>Desarrollé una aplicación de React Native con Expo para validar las identidades de los beneficiarios utilizando imágenes base64 del registro nacional. El sistema también admite asignar el bono a un tercero.</p>",
+      "technologies": [
+        "C#",
+        "IIS",
+        "abp.io",
+        "react native",
+        "expo"
+      ],
+      "githubLink": "",
+      "liveLink": ""
+    },
+    {
+      "title": "Maintenance of sanpedrosula.hn",
+      "description": "<p>Mantenimiento continuo utilizando NestJS para las APIs y JavaScript para los clientes.</p>",
+      "technologies": [],
+      "githubLink": "",
+      "liveLink": "https://sanpedrosula.hn/"
+    },
+    {
+      "title": "Immobilizer map",
+      "description": "<p>Una página web que recibe datos de la ubicación de todos los inmovilizadores que están activos y pagados en la ciudad.</p>",
+      "technologies": [
+        "react"
+      ],
+      "githubLink": "",
+      "liveLink": ""
+    },
+    {
+      "title": "TeleHuertos",
+      "description": "<p>Una página web que muestra un calendario y permite a los usuarios crear salas de videoconferencia para sesiones educativas sobre cultivo de alimentos en el hogar.</p>",
+      "technologies": [
+        "React",
+        "NestJS"
+      ],
+      "githubLink": "",
+      "liveLink": "https://sanpedrosula.hn/telehuertos/"
+    },
+    {
+      "title": "SIN RNP",
+      "description": "<p>El <strong>SIN RNP</strong> (Sistema de Identificación del Registro Nacional) es una plataforma centralizada para gestionar registros de identidad y registro civil. Desarrollé su segunda versión, mejorando la seguridad, escalabilidad y rendimiento.</p>",
+      "technologies": [
+        "React native",
+        "expo",
+        "Laravel"
+      ],
+      "githubLink": "private",
+      "liveLink": "SIN RNP Play Store y App Store"
+    }
+  ],
+  "interests": [
+  ],
+  "references": [
+    {
+      "name": "Ing. Elvin Meza",
+      "company": "Number 8",
+      "phone": "+504 9975-8687",
+      "email": ""
+    },
+    {
+      "name": "Ing. Roberto Brid",
+      "company": "RNP",
+      "phone": "+504 8785-4144",
+      "email": ""
+    },
+    {
+      "name": "Ing. Juan Carlos Muñoz ",
+      "company": "Municipalidad de SPS",
+      "phone": "+504 8810-7186",
+      "email": ""
+    }
+  ]
+}
